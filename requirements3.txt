@@ -1,0 +1,16 @@
+fsspec
+pyyaml
+gcsfs
+google-cloud-aiplatform
+kfp
+matplotlib
+numpy
+optuna
+pandas
+pickle-mixin
+scikit-learn
+scipy
+shap
+tqdm
+xgboost
+
