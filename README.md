@@ -71,5 +71,7 @@ The repository has the following structure:
 ## Further Reading
 
 https://medium.com/@wardarahim25/step-by-step-guide-to-creating-and-deploying-custom-ml-pipelines-with-gcp-vertex-ai-part-1-61185bc24f6a
+
 https://medium.com/@wardarahim25/step-by-step-guide-to-creating-and-deploying-custom-ml-pipelines-with-gcp-vertex-ai-part-2-3be6e314bc48
+
 https://github.com/warda-rahim/articles/tree/master/custom-vertex-ai-pipelines
